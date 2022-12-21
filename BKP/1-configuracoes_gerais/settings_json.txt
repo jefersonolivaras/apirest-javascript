@@ -1,0 +1,7 @@
+Acrescente essas configurações em settings.json
+
+"eslint.auto": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll": true
+    }
